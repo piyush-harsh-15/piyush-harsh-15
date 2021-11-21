@@ -11,8 +11,6 @@
 
 - 🔖 Currently working on Machine Learning, Computer Vision and Natural Language Processing.
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
-
 - 📨 Inbox me: contact.piyushharsh@gmail.com
 
 - 💬 Ask me about anything [here](https://github.com/piyush-harsh-15/piyush-harsh-15/issues)
