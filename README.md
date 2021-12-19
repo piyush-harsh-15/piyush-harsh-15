@@ -3,7 +3,7 @@
 <br/>
 
 <p align="center">I'm a Pre-Final Year Student @ BIT Sindri, Dhanbad. 
-<br>Learning to teaching machines common sense! 🤖</p>
+<br>Learning to teach machines common sense! 🤖</p>
 
 **About me**
 
