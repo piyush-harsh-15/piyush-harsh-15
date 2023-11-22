@@ -2,7 +2,7 @@
 
 <br/>
 
-<p align="center">I'm a Pre-Final Year Student @ BIT Sindri, Dhanbad. 
+<p align="center">I'm a B.Tech Graduate @ BIT Sindri, Dhanbad. 
 <br>Learning to teach machines common sense! 🤖</p>
 
 **About me**
@@ -11,7 +11,7 @@
 
 - 🔖 Currently working on Machine Learning, Computer Vision and Natural Language Processing.
 
-- 📨 Inbox me: contact.piyushharsh@gmail.com
+- 📨 Inbox me: piyushharsh15@gmail.com
 
 - 💬 Ask me about anything [here](https://github.com/piyush-harsh-15/piyush-harsh-15/issues)
 
